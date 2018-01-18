@@ -1,0 +1,48 @@
+.asif-logo-carousel .owl-dots div {
+	height: 5px;
+	width: 40px;
+	background: #ddd;
+	cursor: pointer;
+	display: inline-block;
+	margin: 5px;
+}
+
+.asif-logo-carousel .owl-dots {
+	text-align: center;
+}
+
+.asif-logo-carousel .owl-dots div.active {
+	background: #fff334;
+}
+
+.asif-logo-carousel .owl-nav div {
+	font-size: 30px;
+	line-height: 50px;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	margin-top: -8px;
+	opacity: .6;
+}
+
+.asif-logo-carousel .owl-nav div.owl-next {
+	left: auto;
+	right: 0;
+}
+
+.asif-logo-carousel {
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+}
+
+.asif-logo-item-table {
+	display: table;
+	height: 30px;
+	width: 100%;
+}
+
+.asif-logo-item-tablecell {
+	display: table-cell;
+	vertical-align: middle;
+}
